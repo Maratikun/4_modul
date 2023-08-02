@@ -17,4 +17,11 @@ h1{
 .paragraph-3 {
     font-weight: bold;
     font-family: 'Courier New';
+    text-shadow: green 2px 5px;
+}
+div {
+    text-align: center;
+    font-style: italic;
+    font-size: 24px;
+    text-shadow: green 2px 5px;
 }
